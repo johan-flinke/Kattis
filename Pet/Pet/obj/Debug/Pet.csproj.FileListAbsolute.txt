@@ -1,6 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\bin\Debug\Pet.exe.config
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\bin\Debug\Pet.exe
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\bin\Debug\Pet.pdb
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\obj\Debug\Pet.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\obj\Debug\Pet.exe
-E:\Johan\Programmering\C#\Kattis\Pet\Pet\obj\Debug\Pet.pdb

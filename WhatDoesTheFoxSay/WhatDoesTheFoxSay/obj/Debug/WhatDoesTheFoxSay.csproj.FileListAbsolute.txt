@@ -1,6 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\bin\Debug\WhatDoesTheFoxSay.exe.config
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\bin\Debug\WhatDoesTheFoxSay.exe
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\bin\Debug\WhatDoesTheFoxSay.pdb
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\obj\Debug\WhatDoesTheFoxSay.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\obj\Debug\WhatDoesTheFoxSay.exe
-E:\Johan\Programmering\C#\Kattis\WhatDoesTheFoxSay\WhatDoesTheFoxSay\obj\Debug\WhatDoesTheFoxSay.pdb

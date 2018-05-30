@@ -1,6 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\bin\Debug\Zamka.exe.config
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\bin\Debug\Zamka.exe
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\bin\Debug\Zamka.pdb
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\obj\Debug\Zamka.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\obj\Debug\Zamka.exe
-E:\Johan\Programmering\C#\Kattis\Zamka\Zamka\obj\Debug\Zamka.pdb

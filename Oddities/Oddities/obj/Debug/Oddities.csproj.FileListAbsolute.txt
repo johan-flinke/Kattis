@@ -1,7 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\bin\Debug\Oddities.exe.config
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\bin\Debug\Oddities.exe
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\bin\Debug\Oddities.pdb
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\obj\Debug\Oddities.csprojResolveAssemblyReference.cache
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\obj\Debug\Oddities.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\obj\Debug\Oddities.exe
-E:\Johan\Programmering\C#\Kattis\Oddities\Oddities\obj\Debug\Oddities.pdb

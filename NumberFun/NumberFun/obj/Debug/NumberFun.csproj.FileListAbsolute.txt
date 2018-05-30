@@ -1,6 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\bin\Debug\NumberFun.exe.config
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\bin\Debug\NumberFun.exe
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\bin\Debug\NumberFun.pdb
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\obj\Debug\NumberFun.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\obj\Debug\NumberFun.exe
-E:\Johan\Programmering\C#\Kattis\NumberFun\NumberFun\obj\Debug\NumberFun.pdb

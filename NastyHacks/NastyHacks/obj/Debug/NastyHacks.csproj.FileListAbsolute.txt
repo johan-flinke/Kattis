@@ -1,7 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\bin\Debug\NastyHacks.exe.config
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\bin\Debug\NastyHacks.exe
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\bin\Debug\NastyHacks.pdb
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\obj\Debug\NastyHacks.csprojResolveAssemblyReference.cache
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\obj\Debug\NastyHacks.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\obj\Debug\NastyHacks.exe
-E:\Johan\Programmering\C#\Kattis\NastyHacks\NastyHacks\obj\Debug\NastyHacks.pdb

@@ -1,7 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\bin\Debug\SevenWonders.exe.config
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\bin\Debug\SevenWonders.exe
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\bin\Debug\SevenWonders.pdb
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\obj\Debug\SevenWonders.csprojResolveAssemblyReference.cache
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\obj\Debug\SevenWonders.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\obj\Debug\SevenWonders.exe
-E:\Johan\Programmering\C#\Kattis\SevenWonders\SevenWonders\obj\Debug\SevenWonders.pdb

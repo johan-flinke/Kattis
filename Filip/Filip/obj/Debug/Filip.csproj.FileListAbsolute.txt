@@ -1,7 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\bin\Debug\Filip.exe.config
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\bin\Debug\Filip.exe
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\bin\Debug\Filip.pdb
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\obj\Debug\Filip.csprojResolveAssemblyReference.cache
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\obj\Debug\Filip.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\obj\Debug\Filip.exe
-E:\Johan\Programmering\C#\Kattis\Filip\Filip\obj\Debug\Filip.pdb
