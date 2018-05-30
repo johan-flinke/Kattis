@@ -1,6 +1,0 @@
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\bin\Debug\Apaxiaaans.exe.config
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\bin\Debug\Apaxiaaans.exe
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\bin\Debug\Apaxiaaans.pdb
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\obj\Debug\Apaxiaaans.csproj.CoreCompileInputs.cache
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\obj\Debug\Apaxiaaans.exe
-E:\Johan\Programmering\C#\Kattis\Apaxiaaans\Apaxiaaans\obj\Debug\Apaxiaaans.pdb
