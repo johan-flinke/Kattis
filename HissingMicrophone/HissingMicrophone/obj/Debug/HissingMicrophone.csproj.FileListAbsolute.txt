@@ -1,0 +1,7 @@
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\bin\Debug\HissingMicrophone.exe.config
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\bin\Debug\HissingMicrophone.exe
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\bin\Debug\HissingMicrophone.pdb
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\obj\Debug\HissingMicrophone.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\obj\Debug\HissingMicrophone.exe
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\obj\Debug\HissingMicrophone.pdb
+E:\Johan\Programmering\C#\Kattis\HissingMicrophone\HissingMicrophone\obj\Debug\HissingMicrophone.csprojResolveAssemblyReference.cache

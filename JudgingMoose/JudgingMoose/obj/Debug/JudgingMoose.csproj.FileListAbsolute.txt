@@ -1,0 +1,6 @@
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.exe.config
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.exe
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\bin\Debug\JudgingMoose.pdb
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.exe
+E:\Johan\Programmering\C#\Kattis\JudgingMoose\JudgingMoose\obj\Debug\JudgingMoose.pdb

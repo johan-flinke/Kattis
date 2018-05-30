@@ -1,0 +1,10 @@
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\bin\Debug\netcoreapp2.0\Trik.deps.json
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\bin\Debug\netcoreapp2.0\Trik.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\bin\Debug\netcoreapp2.0\Trik.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\bin\Debug\netcoreapp2.0\Trik.dll
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\bin\Debug\netcoreapp2.0\Trik.pdb
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\obj\Debug\netcoreapp2.0\Trik.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\obj\Debug\netcoreapp2.0\Trik.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\obj\Debug\netcoreapp2.0\Trik.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\obj\Debug\netcoreapp2.0\Trik.dll
+C:\Johan\Programmering\C#\Kattis\Trik\Trik\obj\Debug\netcoreapp2.0\Trik.pdb

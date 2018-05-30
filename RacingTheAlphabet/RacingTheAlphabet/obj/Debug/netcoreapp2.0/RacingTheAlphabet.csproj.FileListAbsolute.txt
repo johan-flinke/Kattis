@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\bin\Debug\netcoreapp2.0\RacingTheAlphabet.deps.json
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\bin\Debug\netcoreapp2.0\RacingTheAlphabet.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\bin\Debug\netcoreapp2.0\RacingTheAlphabet.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\bin\Debug\netcoreapp2.0\RacingTheAlphabet.dll
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\bin\Debug\netcoreapp2.0\RacingTheAlphabet.pdb
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.dll
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.pdb
+C:\Johan\Programmering\C#\Kattis\RacingTheAlphabet\RacingTheAlphabet\obj\Debug\netcoreapp2.0\RacingTheAlphabet.csprojResolveAssemblyReference.cache

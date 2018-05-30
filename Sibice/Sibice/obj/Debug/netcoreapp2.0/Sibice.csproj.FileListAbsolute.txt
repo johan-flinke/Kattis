@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\bin\Debug\netcoreapp2.0\Sibice.deps.json
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\bin\Debug\netcoreapp2.0\Sibice.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\bin\Debug\netcoreapp2.0\Sibice.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\bin\Debug\netcoreapp2.0\Sibice.dll
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\bin\Debug\netcoreapp2.0\Sibice.pdb
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.dll
+C:\Johan\Programmering\C#\Kattis\Sibice\Sibice\obj\Debug\netcoreapp2.0\Sibice.pdb

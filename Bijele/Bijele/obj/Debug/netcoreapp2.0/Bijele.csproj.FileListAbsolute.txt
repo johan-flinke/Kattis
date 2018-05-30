@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\bin\Debug\netcoreapp2.0\Bijele.deps.json
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\bin\Debug\netcoreapp2.0\Bijele.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\bin\Debug\netcoreapp2.0\Bijele.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\bin\Debug\netcoreapp2.0\Bijele.dll
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\bin\Debug\netcoreapp2.0\Bijele.pdb
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.dll
+C:\Johan\Programmering\C#\Kattis\Bijele\Bijele\obj\Debug\netcoreapp2.0\Bijele.pdb

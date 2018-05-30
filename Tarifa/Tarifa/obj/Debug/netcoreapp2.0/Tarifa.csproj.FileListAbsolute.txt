@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\bin\Debug\netcoreapp2.0\Tarifa.deps.json
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\bin\Debug\netcoreapp2.0\Tarifa.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\bin\Debug\netcoreapp2.0\Tarifa.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\bin\Debug\netcoreapp2.0\Tarifa.dll
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\bin\Debug\netcoreapp2.0\Tarifa.pdb
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.dll
+C:\Johan\Programmering\C#\Kattis\Tarifa\Tarifa\obj\Debug\netcoreapp2.0\Tarifa.pdb

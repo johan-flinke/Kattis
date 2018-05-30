@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\netcoreapp2.0\StuckInATimeLoop.deps.json
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\netcoreapp2.0\StuckInATimeLoop.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\netcoreapp2.0\StuckInATimeLoop.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\netcoreapp2.0\StuckInATimeLoop.dll
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\bin\Debug\netcoreapp2.0\StuckInATimeLoop.pdb
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.dll
+C:\Johan\Programmering\C#\Kattis\StuckInATimeLoop\StuckInATimeLoop\obj\Debug\netcoreapp2.0\StuckInATimeLoop.pdb

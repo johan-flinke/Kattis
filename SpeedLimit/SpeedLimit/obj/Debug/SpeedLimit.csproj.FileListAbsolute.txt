@@ -1,0 +1,7 @@
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\bin\Debug\SpeedLimit.exe.config
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\bin\Debug\SpeedLimit.exe
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\bin\Debug\SpeedLimit.pdb
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\obj\Debug\SpeedLimit.csprojResolveAssemblyReference.cache
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\obj\Debug\SpeedLimit.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\obj\Debug\SpeedLimit.exe
+E:\Johan\Programmering\C#\Kattis\SpeedLimit\SpeedLimit\obj\Debug\SpeedLimit.pdb

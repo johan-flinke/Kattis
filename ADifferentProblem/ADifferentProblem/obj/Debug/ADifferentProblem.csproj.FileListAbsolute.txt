@@ -1,0 +1,7 @@
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\bin\Debug\ADifferentProblem.exe.config
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\bin\Debug\ADifferentProblem.exe
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\bin\Debug\ADifferentProblem.pdb
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\obj\Debug\ADifferentProblem.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\obj\Debug\ADifferentProblem.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\obj\Debug\ADifferentProblem.exe
+C:\Johan\Programmering\C#\Kattis\ADifferentProblem\ADifferentProblem\obj\Debug\ADifferentProblem.pdb

@@ -1,0 +1,6 @@
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\bin\Debug\NoDuplicates.exe.config
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\bin\Debug\NoDuplicates.exe
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\bin\Debug\NoDuplicates.pdb
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\obj\Debug\NoDuplicates.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\obj\Debug\NoDuplicates.exe
+E:\Johan\Programmering\C#\Kattis\NoDuplicates\NoDuplicates\obj\Debug\NoDuplicates.pdb

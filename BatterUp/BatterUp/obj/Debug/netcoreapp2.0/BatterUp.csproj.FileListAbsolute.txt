@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\bin\Debug\netcoreapp2.0\BatterUp.deps.json
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\bin\Debug\netcoreapp2.0\BatterUp.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\bin\Debug\netcoreapp2.0\BatterUp.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\bin\Debug\netcoreapp2.0\BatterUp.dll
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\bin\Debug\netcoreapp2.0\BatterUp.pdb
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.dll
+C:\Johan\Programmering\C#\Kattis\BatterUp\BatterUp\obj\Debug\netcoreapp2.0\BatterUp.pdb

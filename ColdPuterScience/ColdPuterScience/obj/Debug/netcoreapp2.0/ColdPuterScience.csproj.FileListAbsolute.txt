@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\bin\Debug\netcoreapp2.0\ColdPuterScience.deps.json
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\bin\Debug\netcoreapp2.0\ColdPuterScience.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\bin\Debug\netcoreapp2.0\ColdPuterScience.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\bin\Debug\netcoreapp2.0\ColdPuterScience.dll
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\bin\Debug\netcoreapp2.0\ColdPuterScience.pdb
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.dll
+C:\Johan\Programmering\C#\Kattis\ColdPuterScience\ColdPuterScience\obj\Debug\netcoreapp2.0\ColdPuterScience.pdb

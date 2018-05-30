@@ -1,0 +1,6 @@
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\bin\Debug\ReversedBinaryNumbers.exe.config
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\bin\Debug\ReversedBinaryNumbers.exe
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\bin\Debug\ReversedBinaryNumbers.pdb
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\obj\Debug\ReversedBinaryNumbers.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\obj\Debug\ReversedBinaryNumbers.exe
+E:\Johan\Programmering\C#\Kattis\ReversedBinaryNumbers\ReversedBinaryNumbers\obj\Debug\ReversedBinaryNumbers.pdb

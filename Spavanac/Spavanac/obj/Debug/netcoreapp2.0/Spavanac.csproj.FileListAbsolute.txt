@@ -1,0 +1,11 @@
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\bin\Debug\netcoreapp2.0\Spavanac.deps.json
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\bin\Debug\netcoreapp2.0\Spavanac.runtimeconfig.json
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\bin\Debug\netcoreapp2.0\Spavanac.runtimeconfig.dev.json
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\bin\Debug\netcoreapp2.0\Spavanac.dll
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\bin\Debug\netcoreapp2.0\Spavanac.pdb
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.csprojResolveAssemblyReference.cache
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.csproj.CoreCompileInputs.cache
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.AssemblyInfoInputs.cache
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.AssemblyInfo.cs
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.dll
+C:\Johan\Programmering\C#\Kattis\Spavanac\Spavanac\obj\Debug\netcoreapp2.0\Spavanac.pdb
