@@ -1,0 +1,7 @@
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\bin\Debug\Autori.exe.config
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\bin\Debug\Autori.exe
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\bin\Debug\Autori.pdb
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\obj\Debug\Autori.csprojResolveAssemblyReference.cache
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\obj\Debug\Autori.csproj.CoreCompileInputs.cache
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\obj\Debug\Autori.exe
+E:\Johan\Programmering\C#\Kattis\Autori\Autori\obj\Debug\Autori.pdb
